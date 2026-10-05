@@ -1,6 +1,6 @@
-# 🛣️ Pothole Detection and Road Damage Assessment System
+# 🛣️ Pothole Detection System
 
-An AI-powered **Pothole Detection and Road Damage Assessment System** built using **YOLOv8 Instance Segmentation** and OpenCV. The system detects potholes in road images and videos, generates segmentation masks, calculates the damaged road area, and estimates the percentage of road damage.
+An AI-powered **Pothole Detection System** built using **YOLOv8 Instance Segmentation** and OpenCV. The system detects potholes in road images and videos, generates segmentation masks, calculates the damaged road area, and estimates the percentage of road damage.
 
 ## 🚀 Features
 
